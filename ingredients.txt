@@ -1,3 +1,5 @@
 avocado
 tomatoes
-cilantro (optional)
+cilantro
+garlic
+salt
